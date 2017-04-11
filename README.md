@@ -1,3 +1,3 @@
 # update_shadowsocks_config
 
-a shellscript for shadowsocks for windows which is get ss server address from ishadowsocks web sites!
+A shellscript for shadowsocks on windows which is getting ss server address from ishadowsocks web sites!
